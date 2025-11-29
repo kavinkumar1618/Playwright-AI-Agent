@@ -1,0 +1,23 @@
+{
+  "name": "playwright-ai-agent",
+  "version": "1.0.0",
+  "description": "This project automates Salesforce UI workflows using the Playwright testing framework together with an AI agent to assist with intelligent test generation, element selection, and adaptive flows.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kavinkumar1618/Playwright-AI-Agent.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/kavinkumar1618/Playwright-AI-Agent/issues"
+  },
+  "homepage": "https://github.com/kavinkumar1618/Playwright-AI-Agent#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^24.10.1"
+  }
+}
